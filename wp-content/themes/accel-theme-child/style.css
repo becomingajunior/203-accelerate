@@ -98,6 +98,8 @@ div.case-study-images img {
     text-align: center;
     padding-bottom: 40px;
     margin: 0px;
+    color: red;
+    background-color: white;
 }
 
 .featured-work h5 {
