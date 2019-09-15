@@ -98,8 +98,6 @@ div.case-study-images img {
     text-align: center;
     padding-bottom: 40px;
     margin: 0px;
-    color: red;
-    background-color: white;
 }
 
 .featured-work h5 {
@@ -173,3 +171,217 @@ ul.social-media-menu li {
     overflow: hidden;
     word-wrap: normal !important;
 }
+/* Contact Us Form */
+
+.contact .site-main {
+    width: 55%;
+    margin:auto;
+}
+  
+#nf-field-4 {
+    float: right;
+}
+
+input#nf-field-4.ninja-forms-field.nf-element {
+    background: #45ac9d;
+}
+
+/* About page */
+
+#primary.about-page.hero-content {
+    background: url("img/taxi-crop.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    margin: auto;
+}
+
+.about-content h2 {
+    font: 500 .875em/1.75 'Open Sans', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    line-height: 1.4em;
+    margin: auto 350px;
+    padding: auto;
+}
+
+.intro h6 {
+    color: black;
+    text-transform: uppercase;
+    margin-top: 100px;
+    padding: 0;
+    text-align: center;
+}
+
+.intro p {
+    text-align: center;
+    margin-bottom: 40px;
+}
+    
+#about_services {
+    margin-left: 160px;
+    margin-right: 150px;
+    height: auto;
+}
+
+#services_1_image {
+    float:left;
+    padding-top: 6%;
+}
+
+#services_1_text {
+    width: 66%;
+    float: right;
+}
+
+#services_1_text h2 {
+    font: 25px "Open Sans", Arial, sans-serif;
+}
+
+#services_2_text {
+    float: left;
+    width: 66%;
+}
+#services_2_text h2 {
+    font: 25px "Open Sans", Arial, sans-serif;
+}
+
+#services_2_image {
+    float: right;
+    padding-top: 6%;
+}
+
+#services_3_image {
+    float:left;
+    padding-top: 6%;
+}
+
+#services_3_text {
+    width: 66%;
+    float: right;
+}
+#services_3_text h2 {
+    font: 25px "Open Sans", Arial, sans-serif;
+}
+
+#services_4_image {
+    float:right;
+    padding-top: 6%;
+}
+
+#services_4_text {
+    float: left;
+    width: 66%;
+    padding-bottom: 60px;
+}
+
+#services_4_text h2 {
+    font: 25px "Open Sans", Arial, sans-serif;
+}
+
+#navigation.navigation {
+    margin: auto;
+    padding-left: 175px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+    
+#navigation h1 {
+    float: left;
+    font: 600 25px "Open Sans", Arial, sans-serif;
+}
+
+#navigation .button {
+    float: left;
+    margin-top: 35px;
+    margin-left: 35px;
+}
+
+#navigation a {
+    font-size: 20px;
+}
+
+/*  404 PAGE */
+
+.fourohfour h1 {
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 4em;
+    margin-bottom: 0;
+    font-family: 'Faster One', cursive;
+    letter-spacing: 5px;
+    color: #2f4f4f;
+}
+
+.fourohfour h2 {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 5%;
+    margin-top: 0;
+}
+
+#kansas .button {
+    background: #e0115f;
+}
+
+/* Twitter feed */
+
+.twitter {
+    width: 50%;
+    float: left;
+    max-width: 400px;
+    margin-left: 60px;
+}
+
+.twitter h4 {
+    font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+    color: #a6a6a6;
+    text-transform: uppercase;
+    margin: 2em 0 .5em;
+}
+
+.ctf-author-box-link span {
+    color: white;
+}
+
+#ctf.ctf-styles .ctf-author-screenname {
+    margin-left: 0;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+#ctf .ctf-item {
+    padding:0;
+}
+
+#ctf .ctf-author-name {
+    display: none;
+}
+
+#ctf.ctf-styles .ctf-author-screenname {
+    font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+    font-size: 1.5em;
+    text-transform: capitalize;
+}
+
+.ctf-tweet-content {
+    margin-bottom:20px;
+}
+
+/* Newsletter */
+
+input[type="button"],
+input[type="submit"] {
+	font: 700 1em/1 'Montserrat', 'OpenSans', Arial, sans-serif;
+	color: #fff;
+    background: #45ac9d;
+	padding: 1em 3.75em;
+}
+
+input {
+    height: 50px;
+} 
