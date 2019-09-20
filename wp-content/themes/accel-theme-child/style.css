@@ -344,8 +344,12 @@ input#nf-field-4.ninja-forms-field.nf-element {
     margin: 2em 0 .5em;
 }
 
-.ctf-author-box-link span {
+/*.ctf-author-box-link span {
     color: white;
+}*/
+
+#ctf .ctf-screename-sep {
+    display: none;
 }
 
 #ctf.ctf-styles .ctf-author-screenname {
